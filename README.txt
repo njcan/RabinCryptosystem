@@ -1,4 +1,4 @@
-This is an example Rabin Cryptosystem complete with fully commented code. The programs are written in Java and utilize Java's BigNum package.
+This is an example Rabin Cryptosystem complete with fully commented code. The programs are written in Java and utilize Java's BigNum package. This is my first time using Java and Java's BigNum package. 
 Normally, the private keys are not revealed. In this example they are accessable so they user may view them to gain understanding about the system.
 See https://en.wikipedia.org/wiki/Rabin_cryptosystem for more information.
 
