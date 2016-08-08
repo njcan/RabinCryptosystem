@@ -11,3 +11,4 @@ Notes:
   – Make sure the "Input.txt" file is in the same directory as the program.
   – Currently, it generates 2 private keys, p & q, where each are 1024 digits in length each. 
   – The private keys are then multiplied together to make the public key, which is 2048 digits in length.
+ 
