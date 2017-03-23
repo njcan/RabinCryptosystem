@@ -166,11 +166,13 @@ public class Decrypt
 
    RETURNS:    Returns the private key P as a String
 
-   NOTES:      Reads the first line of "Private.txt" as a String
+   NOTES:      Reads the first line of "Public.txt" as a String
+   
+   !! There are a few other things that go wrong but i did not !!
     */
     private String GetP()
     {
-        String inFile = "Private.txt"; // The file must be named
+        String inFile = "Public.txt"; // The file must be named
         String line = "";              // Empty string to read into
 
         // Try to instantiate the readers
